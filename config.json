@@ -1,0 +1,34 @@
+{
+    "version": "21.09.18.2",
+    "prefix": "sp.",
+    "ownerId": "249670124238405652",
+    "commandSets": {
+        "dono": {
+            "dir": "comandos/dono/"
+        },
+        "bot": {
+            "dir": "comandos/bot/"
+        },
+        "servidor": {
+            "dir": "comandos/servidor/"
+        },
+        "imagem": {
+            "dir": "comandos/imagem/"
+        },
+        "moderacao": {
+            "dir": "comandos/moderacao/"
+        },
+        "info": {
+            "dir": "comandos/info/"
+        },
+        "utilidade": {
+            "dir": "comandos/utilidade/"
+        },
+        "diversao": {
+            "dir": "comandos/diversao/"
+        },
+        "musica": {
+            "dir": "comandos/musica/"
+        }
+    }
+}
